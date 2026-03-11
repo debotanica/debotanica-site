@@ -227,17 +227,6 @@ nav{position:fixed;top:0;left:0;right:0;z-index:100;height:48px;background:var(-
       <span style="color:var(--light);font-size:14px">⌕</span>
       <input type="text" id="searchInput" placeholder="Search…" oninput="filterRemedies()">
     </div>
-    <div class="filter-pills">
-      <div class="fpill active" onclick="selectCat('All',this)" id="pill-all">All</div>
-      <div class="fpill" onclick="selectCat('Stress & Sleep',this)" id="pill-sleep">Sleep</div>
-      <div class="fpill" onclick="selectCat('Immunità',this)" id="pill-immunity">Immunity</div>
-      <div class="fpill" onclick="selectCat('Digestione & Fegato',this)" id="pill-digestion">Digestion</div>
-      <div class="fpill" onclick="selectCat('Infiammazione & Dolore',this)" id="pill-inflammation">Inflammation</div>
-      <div class="fpill" onclick="selectCat('Ormoni & Ciclo',this)" id="pill-hormones">Hormones</div>
-      <div class="fpill" onclick="selectCat('Pelle & Detox',this)" id="pill-skin">Skin</div>
-      <div class="fpill" onclick="selectCat('Cuore & Circolazione',this)" id="pill-heart">Heart</div>
-      <div class="fpill" onclick="selectCat('Energia & Adattogeni',this)" id="pill-energy">Energy</div>
-    </div>
   </div>
   <div class="result-info"><span class="result-count" id="resultCount">74 remedies</span></div>
   <div class="remedy-table" id="remedyTable"></div>
