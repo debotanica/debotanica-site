@@ -1,0 +1,489 @@
+[
+  {
+    "id": "enterelle",
+    "name": "Enterelle",
+    "nameIT": "Enterelle",
+    "emoji": "🧫",
+    "type": "product",
+    "brand": "Bromatech",
+    "remedy_type": "Probiotico",
+    "categories": [
+      "Digestione & Fegato",
+      "Immunità"
+    ],
+    "forms": [
+      "Capsule",
+      "Stick"
+    ],
+    "forms_it": [
+      "Capsule",
+      "Stick"
+    ],
+    "timing": "After main meals",
+    "timing_it": "Dopo i pasti principali",
+    "properties": [
+      "Enterococcus faecium EF41",
+      "Saccharomyces boulardii Lyo SB28",
+      "Saccharomyces boulardii SP92",
+      "Lactobacillus acidophilus LA14"
+    ],
+    "properties_it": [
+      "Enterococcus faecium EF41",
+      "Saccharomyces boulardii Lyo SB28",
+      "Saccharomyces boulardii SP92",
+      "Lactobacillus acidophilus LA14"
+    ],
+    "uses": [
+      "Diarrhea",
+      "Traveler's diarrhea",
+      "Intestinal rebalancing after antibiotics",
+      "Dysbiosis",
+      "Infections from contaminated food"
+    ],
+    "uses_it": [
+      "Diarrea",
+      "Diarrea del viaggiatore",
+      "Riequilibrio intestinale dopo antibiotici",
+      "Disbiosi",
+      "Infezioni da cibi contaminati"
+    ],
+    "description": "Probiotic with cleansing strains. Enterococcus faecium eliminates pathogenic intestinal bacteria, Saccharomyces boulardii binds and expels pathogens, Lactobacillus acidophilus inhibits pathogen growth and removes toxins.",
+    "description_it": "Probiotico con ceppi ad azione bonificante. Enterococcus faecium elimina batteri patogeni intestinali, Saccharomyces boulardii si lega ai microrganismi patogeni facilitandone l'espulsione, Lactobacillus acidophilus inibisce la crescita microbica e favorisce l'eliminazione delle tossine.",
+    "dosage": "1 capsule twice daily after main meals",
+    "dosage_it": "1 capsula 2 volte al giorno dopo i pasti principali",
+    "cautions": "Consult a physician if immunocompromised. Store in a cool dry place away from light and heat.",
+    "cautions_it": "Consultare il medico in caso di immunodepressione. Conservare in luogo fresco e asciutto al riparo da luce e calore.",
+    "rating": 4,
+    "synergies": []
+  },
+  {
+    "id": "acronelle",
+    "name": "Acronelle",
+    "nameIT": "Acronelle",
+    "emoji": "🦠",
+    "type": "product",
+    "brand": "Bromatech",
+    "remedy_type": "Probiotico",
+    "categories": [
+      "Digestione & Fegato"
+    ],
+    "forms": [
+      "Capsule"
+    ],
+    "forms_it": [
+      "Capsule"
+    ],
+    "timing": "After meals",
+    "timing_it": "Dopo i pasti",
+    "properties": [
+      "Lactobacillus salivarius LS33",
+      "Bifidobacterium bifidum BGN4",
+      "Lactobacillus acidophilus LA14",
+      "Vitamina C"
+    ],
+    "properties_it": [
+      "Lactobacillus salivarius LS33",
+      "Bifidobacterium bifidum BGN4",
+      "Lactobacillus acidophilus LA14",
+      "Vitamina C"
+    ],
+    "uses": [
+      "Acute and chronic intestinal dysbiosis",
+      "Irritable bowel",
+      "Ileum and colon support",
+      "Restoration of intestinal mucus",
+      "Food intolerance"
+    ],
+    "uses_it": [
+      "Disbiosi intestinale acuta e cronica",
+      "Intestino irritabile",
+      "Supporto ileo e colon",
+      "Ripristino del muco intestinale",
+      "Intolleranze alimentari"
+    ],
+    "description": "Probiotic supporting ileum and colon function. Promotes eubiosis, restores intestinal mucus and alleviates irritation from food intolerances. Useful in acute and chronic phases of intestinal dysbiosis.",
+    "description_it": "Probiotico a supporto delle funzionalità di ileo e colon. Promuove l'eubiosi, ripristina il muco intestinale e allevia le irritazioni causate da intolleranze alimentari. Utile nelle fasi acute e croniche di alterazione intestinale.",
+    "dosage": "2 capsules daily after meals",
+    "dosage_it": "2 capsule al giorno dopo i pasti",
+    "cautions": "Gluten-free and dairy-free. Store in a cool dry place away from light.",
+    "cautions_it": "Senza glutine e senza latti. Conservare in luogo fresco e asciutto al riparo dalla luce.",
+    "rating": 4,
+    "synergies": []
+  },
+  {
+    "id": "bifiselle",
+    "name": "Bifiselle",
+    "nameIT": "Bifiselle",
+    "emoji": "🫧",
+    "type": "product",
+    "brand": "Bromatech",
+    "remedy_type": "Probiotico",
+    "categories": [
+      "Digestione & Fegato"
+    ],
+    "forms": [
+      "Capsule"
+    ],
+    "forms_it": [
+      "Capsule"
+    ],
+    "timing": "After meals",
+    "timing_it": "Dopo i pasti",
+    "properties": [
+      "Bifidobacterium bifidum",
+      "Bifidobacterium breve",
+      "Bifidobacterium longum",
+      "Bifidobacterium infantis",
+      "Lactobacillus acidophilus",
+      "Inositolo"
+    ],
+    "properties_it": [
+      "Bifidobacterium bifidum",
+      "Bifidobacterium breve",
+      "Bifidobacterium longum",
+      "Bifidobacterium infantis",
+      "Lactobacillus acidophilus",
+      "Inositolo"
+    ],
+    "uses": [
+      "Bloating and abdominal gas",
+      "Aerophagia",
+      "Sluggish bowel",
+      "Digestive difficulties",
+      "Post-antibiotic rebalancing"
+    ],
+    "uses_it": [
+      "Gonfiore e gas addominale",
+      "Aerofagia",
+      "Intestino pigro",
+      "Difficoltà digestive",
+      "Riequilibrio post-antibiotico"
+    ],
+    "description": "Bifido-based probiotic active in the colon. Eliminates toxins from the digestive process and reduces intestinal gas formation. Ideal after irregular nutrition, travel or antibiotic therapy.",
+    "description_it": "Probiotico a base di bifidobatteri attivo nel colon. Elimina le tossine create dal processo digestivo e riduce la formazione di gas intestinali. Indicato dopo alimentazione irregolare, viaggi o terapie antibiotiche.",
+    "dosage": "1-3 capsules daily after meals",
+    "dosage_it": "1-3 capsule al giorno dopo i pasti",
+    "cautions": "Gluten-free and lactose-free. Store in a cool dry place.",
+    "cautions_it": "Senza glutine e senza lattosio. Conservare in luogo fresco e asciutto.",
+    "rating": 4,
+    "synergies": []
+  },
+  {
+    "id": "ramnoselle",
+    "name": "Ramnoselle",
+    "nameIT": "Ramnoselle",
+    "emoji": "🔬",
+    "type": "product",
+    "brand": "Bromatech",
+    "remedy_type": "Probiotico",
+    "categories": [
+      "Digestione & Fegato",
+      "Immunità"
+    ],
+    "forms": [
+      "Capsule"
+    ],
+    "forms_it": [
+      "Capsule"
+    ],
+    "timing": "After meals",
+    "timing_it": "Dopo i pasti",
+    "properties": [
+      "Lactobacillus rhamnosus LR32",
+      "Lactobacillus acidophilus LA14",
+      "Inositolo"
+    ],
+    "properties_it": [
+      "Lactobacillus rhamnosus LR32",
+      "Lactobacillus acidophilus LA14",
+      "Inositolo"
+    ],
+    "uses": [
+      "Colon rebalancing",
+      "IBS (irritable bowel syndrome)",
+      "Diarrhea",
+      "Intestinal dysbiosis",
+      "Immune system support"
+    ],
+    "uses_it": [
+      "Ricolonizzazione del colon",
+      "IBS (sindrome dell'intestino irritabile)",
+      "Diarrea",
+      "Disbiosi intestinale",
+      "Supporto sistema immunitario"
+    ],
+    "description": "Probiotic with preferential activity in the colon. Restores intestinal flora and related metabolic processes. Particularly indicated for IBS, diarrhea and intestinal dysbiosis.",
+    "description_it": "Probiotico con attività preferenziale nel colon. Ripristina la flora batterica intestinale e i processi metabolici ad essa collegati. Particolarmente indicato per IBS, diarrea e disbiosi intestinale.",
+    "dosage": "2 capsules daily after meals",
+    "dosage_it": "2 capsule al giorno dopo i pasti",
+    "cautions": "Gluten-free and lactose-free. Store in a cool dry place.",
+    "cautions_it": "Senza glutine e senza lattosio. Conservare in luogo fresco e asciutto.",
+    "rating": 4,
+    "synergies": []
+  },
+  {
+    "id": "femelle",
+    "name": "Femelle",
+    "nameIT": "Femelle",
+    "emoji": "🌸",
+    "type": "product",
+    "brand": "Bromatech",
+    "remedy_type": "Probiotico",
+    "categories": [
+      "Ormoni & Ciclo",
+      "Digestione & Fegato"
+    ],
+    "forms": [
+      "Capsule"
+    ],
+    "forms_it": [
+      "Capsule"
+    ],
+    "timing": "After meals",
+    "timing_it": "Dopo i pasti",
+    "properties": [
+      "Lactobacillus fermentum LF10",
+      "Lactobacillus plantarum LP01",
+      "Lactobacillus acidophilus LA02",
+      "Lactobacillus rhamnosus LR06"
+    ],
+    "properties_it": [
+      "Lactobacillus fermentum LF10",
+      "Lactobacillus plantarum LP01",
+      "Lactobacillus acidophilus LA02",
+      "Lactobacillus rhamnosus LR06"
+    ],
+    "uses": [
+      "Vaginal flora rebalancing",
+      "Cystitis prevention",
+      "Candida overgrowth",
+      "Post-antibiotic rebalancing",
+      "Post-contraceptive rebalancing"
+    ],
+    "uses_it": [
+      "Riequilibrio flora vaginale",
+      "Prevenzione cistiti",
+      "Candidosi",
+      "Riequilibrio post-antibiotico",
+      "Riequilibrio post-contraccettivi"
+    ],
+    "description": "Probiotic specifically designed for female urogenital health. Strains selected for their ability to adhere to the vaginal mucosa and resist the acidic environment.",
+    "description_it": "Probiotico specificamente formulato per la salute urogenitale femminile. Ceppi selezionati per la capacità di aderire alla mucosa vaginale e resistere all'ambiente acido.",
+    "dosage": "2 capsules daily after meals",
+    "dosage_it": "2 capsule al giorno dopo i pasti",
+    "cautions": "Gluten-free and lactose-free. For women only.",
+    "cautions_it": "Senza glutine e senza lattosio. Solo per donne.",
+    "rating": 4,
+    "synergies": []
+  },
+  {
+    "id": "pilorex",
+    "name": "Pilorex",
+    "nameIT": "Pilorex",
+    "emoji": "🫀",
+    "type": "product",
+    "brand": "Bromatech",
+    "remedy_type": "Probiotico",
+    "categories": [
+      "Digestione & Fegato"
+    ],
+    "forms": [
+      "Compresse"
+    ],
+    "forms_it": [
+      "Compresse"
+    ],
+    "timing": "After meals",
+    "timing_it": "Dopo i pasti",
+    "properties": [
+      "Lactobacillus acidophilus LA14",
+      "Proteine di soia fermentate",
+      "Vitamina PP (niacina)",
+      "Vitamina B2"
+    ],
+    "properties_it": [
+      "Lactobacillus acidophilus LA14",
+      "Proteine di soia fermentate",
+      "Vitamina PP (niacina)",
+      "Vitamina B2"
+    ],
+    "uses": [
+      "Gastric and intestinal flora rebalancing",
+      "Stomach dysbiosis",
+      "Mucous membrane support",
+      "H. pylori associated dysbiosis"
+    ],
+    "uses_it": [
+      "Riequilibrio flora gastrica e intestinale",
+      "Disbiosi gastrica",
+      "Supporto mucose",
+      "Disbiosi associata a H. pylori"
+    ],
+    "description": "Probiotic with activity on the gastric tract. Fermented soy proteins act specifically on gastric flora. Vitamins PP and B2 support normal mucous membrane function.",
+    "description_it": "Probiotico con attività sul tratto gastrico. Le proteine di soia fermentate svolgono un'azione specifica sulla flora gastrica. Le vitamine PP e B2 contribuiscono alla normale funzionalità delle mucose.",
+    "dosage": "2-4 tablets daily after meals",
+    "dosage_it": "2-4 compresse al giorno dopo i pasti",
+    "cautions": "Contains soy proteins. Store in a cool dry place.",
+    "cautions_it": "Contiene proteine di soia. Conservare in luogo fresco e asciutto.",
+    "rating": 4,
+    "synergies": []
+  },
+  {
+    "id": "adomelle",
+    "name": "Adomelle",
+    "nameIT": "Adomelle",
+    "emoji": "💨",
+    "type": "product",
+    "brand": "Bromatech",
+    "remedy_type": "Probiotico",
+    "categories": [
+      "Digestione & Fegato"
+    ],
+    "forms": [
+      "Capsule"
+    ],
+    "forms_it": [
+      "Capsule"
+    ],
+    "timing": "After meals",
+    "timing_it": "Dopo i pasti",
+    "properties": [
+      "Lactobacillus plantarum LP115",
+      "Lactobacillus acidophilus LA14"
+    ],
+    "properties_it": [
+      "Lactobacillus plantarum LP115",
+      "Lactobacillus acidophilus LA14"
+    ],
+    "uses": [
+      "Abdominal bloating",
+      "Intestinal gas",
+      "Eubiosis promotion",
+      "Digestive comfort"
+    ],
+    "uses_it": [
+      "Gonfiore addominale",
+      "Gas intestinale",
+      "Promozione eubiosi",
+      "Comfort digestivo"
+    ],
+    "description": "Probiotic formulated to reduce bloating related to gas formation. Selected strains promote a eubioitic intestinal environment.",
+    "description_it": "Probiotico formulato per ridurre la sensazione di gonfiore legata alla formazione di gas. I ceppi selezionati favoriscono un ambiente intestinale eubiotico.",
+    "dosage": "1-2 capsules daily after meals for at least 3 weeks",
+    "dosage_it": "1-2 capsule al giorno dopo i pasti per almeno 3 settimane",
+    "cautions": "Gluten-free and lactose-free. Store in a cool dry place.",
+    "cautions_it": "Senza glutine e senza lattosio. Conservare in luogo fresco e asciutto.",
+    "rating": 4,
+    "synergies": []
+  },
+  {
+    "id": "citogenex",
+    "name": "Citogenex",
+    "nameIT": "Citogenex",
+    "emoji": "🛡️",
+    "type": "product",
+    "brand": "Bromatech",
+    "remedy_type": "Probiotico",
+    "categories": [
+      "Immunità",
+      "Digestione & Fegato"
+    ],
+    "forms": [
+      "Capsule"
+    ],
+    "forms_it": [
+      "Capsule"
+    ],
+    "timing": "After meals",
+    "timing_it": "Dopo i pasti",
+    "properties": [
+      "Lactobacillus casei LC11",
+      "Lactobacillus acidophilus LA14",
+      "Bifidobacterium lactis BL04",
+      "Beta-glucani 1-3 (Saccharomyces spp.) 300mg",
+      "Vitamina C"
+    ],
+    "properties_it": [
+      "Lactobacillus casei LC11",
+      "Lactobacillus acidophilus LA14",
+      "Bifidobacterium lactis BL04",
+      "Beta-glucani 1-3 (Saccharomyces spp.) 300mg",
+      "Vitamina C"
+    ],
+    "uses": [
+      "Intestinal microbiota balance",
+      "Immune system support",
+      "Cholesterol management",
+      "Blood sugar balance"
+    ],
+    "uses_it": [
+      "Equilibrio microbiota intestinale",
+      "Supporto sistema immunitario",
+      "Gestione colesterolo",
+      "Equilibrio glicemico"
+    ],
+    "description": "Probiotic plus beta-glucans for combined intestinal and immune support. Beta-glucans (1-3) have cholesterol-lowering, blood sugar-lowering and immune-modulating actions.",
+    "description_it": "Probiotico con beta-glucani per supporto intestinale e immunitario combinato. I beta-glucani (1-3) svolgono azioni ipolipemizzanti, ipoglicemizzanti e immunomodulanti.",
+    "dosage": "1-3 capsules daily after meals",
+    "dosage_it": "1-3 capsule al giorno dopo i pasti",
+    "cautions": "Gluten-free and lactose-free. Store in a cool dry place.",
+    "cautions_it": "Senza glutine e senza lattosio. Conservare in luogo fresco e asciutto.",
+    "rating": 4,
+    "synergies": []
+  },
+  {
+    "id": "serobioma",
+    "name": "Serobioma",
+    "nameIT": "Serobioma",
+    "emoji": "🧠",
+    "type": "product",
+    "brand": "Bromatech",
+    "remedy_type": "Probiotico",
+    "categories": [
+      "Stress & Sleep",
+      "Digestione & Fegato"
+    ],
+    "forms": [
+      "Capsule"
+    ],
+    "forms_it": [
+      "Capsule"
+    ],
+    "timing": "After meals",
+    "timing_it": "Dopo i pasti",
+    "properties": [
+      "Lactobacillus rhamnosus LR32",
+      "Bifidobacterium lactis BL04",
+      "L-Teanina 200mg",
+      "L-Cisteina 100mg",
+      "Vitamina B2"
+    ],
+    "properties_it": [
+      "Lactobacillus rhamnosus LR32",
+      "Bifidobacterium lactis BL04",
+      "L-Teanina 200mg",
+      "L-Cisteina 100mg",
+      "Vitamina B2"
+    ],
+    "uses": [
+      "Gut-brain axis support",
+      "Stress and mood balance",
+      "Intestinal flora restoration",
+      "Emotional wellbeing"
+    ],
+    "uses_it": [
+      "Supporto asse intestino-cervello",
+      "Equilibrio stress e umore",
+      "Ripristino flora intestinale",
+      "Benessere emotivo"
+    ],
+    "description": "Probiotic formulated for the gut-brain axis. L-theanine promotes relaxation without drowsiness, L-cysteine supports neurotransmitter synthesis, Vitamin B2 contributes to normal nervous system function.",
+    "description_it": "Probiotico formulato per l'asse intestino-cervello. La L-teanina favorisce il rilassamento senza sonnolenza, la L-cisteina supporta la sintesi dei neurotrasmettitori, la vitamina B2 contribuisce alla normale funzione del sistema nervoso.",
+    "dosage": "2 capsules daily after meals",
+    "dosage_it": "2 capsule al giorno dopo i pasti",
+    "cautions": "Gluten-free and lactose-free. Store in a cool dry place.",
+    "cautions_it": "Senza glutine e senza lattosio. Conservare in luogo fresco e asciutto.",
+    "rating": 4,
+    "synergies": []
+  }
+]
