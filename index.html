@@ -451,18 +451,19 @@ var curCat = 'All', curSearch = '', curDetailId = null, prevPage = 'home';
 var saved = JSON.parse(localStorage.getItem('deb_saved')||'[]');
 var journal = JSON.parse(localStorage.getItem('deb_journal')||'[]');
 var customRemedies = JSON.parse(localStorage.getItem('deb_custom')||'[]');
+var loadedProducts = [];
+fetch('./products.json').then(function(r){return r.json();}).then(function(data){loadedProducts=data;filterRemedies();}).catch(function(){});
 var generatedRemedy = null;
 var editingField = null;
 
 function getAllRemedies() {
-  return BUILT_IN.concat(customRemedies);
+  return BUILT_IN.concat(customRemedies).concat(loadedProducts);
 }
 
 function setLang(l, el) {
   lang = l;
   T = TRANSLATIONS[l];
-  document.querySelectorAll('.lang-btn').forEach(function(b){b.classList.remove('active');});
-  el.classList.add('active');
+  document.querySelectorAll('.lang-btn').forEach(function(b){b.ssList.add('active');
   applyTranslations();
   renderTable();
   if (document.getElementById('page-journal').classList.contains('active')) renderJournal();
