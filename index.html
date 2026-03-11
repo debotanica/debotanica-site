@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="it">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -201,8 +201,8 @@ nav{position:fixed;top:0;left:0;right:0;z-index:100;height:48px;background:var(-
   </div>
   <div class="nav-count" id="navCount">74 remedies</div>
   <div class="lang-toggle">
-    <button class="lang-btn active" onclick="setLang('en',this)">EN</button>
-    <button class="lang-btn" onclick="setLang('it',this)">IT</button>
+    <button class="lang-btn" onclick="setLang('en',this)">EN</button>
+    <button class="lang-btn active" onclick="setLang('it',this)">IT</button>
   </div>
 </nav>
 
@@ -456,7 +456,7 @@ var TRANSLATIONS = {
   }
 };
 
-var lang = 'en';
+var lang = 'it';
 var T = TRANSLATIONS.en;
 var curCat = 'All', curSearch = '', curDetailId = null, prevPage = 'home';
 var saved = JSON.parse(localStorage.getItem('deb_saved')||'[]');
